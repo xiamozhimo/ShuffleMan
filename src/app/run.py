@@ -6,6 +6,6 @@ Created on Sep 25, 2019
 
 from api.sealfunc import resetMap,rerand,startMap
 
-resetMap()
-rerand()
+#resetMap()
+#rerand()
 startMap()
